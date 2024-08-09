@@ -27,22 +27,28 @@
 - **Docker**
 - **Jenkins**
 
-## 📈 GitHub Stats
+Aqui está a versão em português do trecho que você forneceu:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&theme=radical)
+## 📈 Estatísticas do GitHub
 
-## 📂 Featured Projects
+![Suas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&hide_border=true&theme=radical)
 
-### [Project Name](https://github.com/yourusername/projectname)
-A brief description of the project. Explain what it does, and the technologies you used.
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&hide_border=true&theme=radical)
 
-### [Project Name](https://github.com/yourusername/projectname)
-A brief description of the project. Explain what it does, and the technologies you used.
+## 📂 Projetos em Destaque
 
-## 📫 Connect with Me
+### [Nome do Projeto](https://github.com/seuusuario/nomedoprojeto)
+Uma breve descrição do projeto. Explique o que ele faz e as tecnologias que você usou.
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- Email: [your.email@example.com](mail
+### [Nome do Projeto](https://github.com/seuusuario/nomedoprojeto)
+Uma breve descrição do projeto. Explique o que ele faz e as tecnologias que você usou.
+
+## 📫 Conecte-se Comigo
+
+- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seuperfil)
+- Twitter: [@seuusuario](https://twitter.com/seuusuario)
+- Email: [seu.email@example.com](mailto:seu.email@example.com)
+
+
