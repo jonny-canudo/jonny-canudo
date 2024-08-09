@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 olá meu nome e joão pedro canuto!
 
 ![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)
 
