@@ -21,7 +21,6 @@
 
 ### Tools
 - **Git & GitHub**
-- **Docker**
 - **Jenkins**
 
 
