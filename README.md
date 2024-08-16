@@ -1,4 +1,4 @@
-#olá meu nome e joão pedro canuto!
+olá meu nome e joão pedro canuto!
 
 ## 🚀 About Me
 
