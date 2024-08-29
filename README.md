@@ -36,7 +36,11 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jonny-canudo&show_icons=true&theme=radical)
 ![Contribuições GitHub](https://github-readme-streak-stats.herokuapp.com/?user=jonny-canudo&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jonny-canudo&layout=compact&theme=radical)
+
+
+## 📊 Linguagens Mais Utilizadas
+
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jonny-canudo&layout=compact&theme=radical)
 
 
 
