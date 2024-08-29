@@ -1,35 +1,36 @@
 olá meu nome e joão pedro canuto!
 
-## 🚀 About Me
+## 🚀 Sobre Mim
 
-- 🔭 I’m currently working on [your current project or focus area].
-- 🌱 I’m learning [technologies you're currently learning].
-- 📫 How to reach me: [your email or social media].
+- 🔭 Atualmente, estou trabalhando em [https://retribua.online/].
+- 🌱 Estou aprendendo [Java].
+- 📫 Como entrar em contato comigo: [jpcanuto789@gmail.com].
 
-## 🛠️ Skills & Tools
 
-### Programming Languages
+## Habilidades e Ferramentas
+
+### Linguagens de Programação
 - **JavaScript** 
 - **Java**
 - **PHP**
 
-### Frameworks & Libraries
+### Frameworks e Bibliotecas
 - **Angular**
 
-### Databases
+### Bancos de Dados
 - **MySQL**
+- **SQL**
 
-### Tools
+### Ferramentas
 - **Git & GitHub**
 - **Jenkins**
-
+- **Apache Tomcat**
 
 
 
 ## 📫 Conecte-se Comigo
 
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seuperfil)
-- Twitter: [@seuusuario](https://twitter.com/seuusuario)
-- Email: [seu.email@example.com](mailto:seu.email@example.com)
+- LinkedIn: [João pedro Canuto](https://www.linkedin.com/in/jo%C3%A3o-pedro-canuto-a3852a292/)
+- Email: [jpcanuto789@gmail.com)
 
 
