@@ -28,8 +28,9 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - **Jenkins**
 - **Apache Tomcat**
 
-📊 Linguagens Mais Utilizadas
-![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jonny-canudo&layout=compact&theme=tokyonight)
+## 📊 Linguagens Mais Utilizadas
+
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jonny-canudo&layout=compact&theme=radical)
 
 📈 GitHub Stats
 
