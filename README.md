@@ -1,4 +1,4 @@
-## olá meu nome e joão pedro canuto!
+## Olá meu nome e João pedro canuto!
 
 Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de aprender e compartilhar conhecimentos.
 
@@ -32,7 +32,11 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jonny-canudo&layout=compact&theme=radical)
 
-📈 GitHub Stats
+## 📈 Minhas Estatísticas no GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jonny-canudo&show_icons=true&theme=radical)
+![Contribuições GitHub](https://github-readme-streak-stats.herokuapp.com/?user=jonny-canudo&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jonny-canudo&layout=compact&theme=radical)
 
 
 
