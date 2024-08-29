@@ -1,5 +1,7 @@
 olá meu nome e joão pedro canuto!
 
+Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de aprender e compartilhar conhecimentos.
+
 ## 🚀 Sobre Mim
 
 - 🔭 Atualmente, estou trabalhando em [https://retribua.online/].
@@ -25,6 +27,10 @@ olá meu nome e joão pedro canuto!
 - **Git & GitHub**
 - **Jenkins**
 - **Apache Tomcat**
+
+📊 Linguagens Mais Utilizadas
+
+📈 GitHub Stats
 
 
 
