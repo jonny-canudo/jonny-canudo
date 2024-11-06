@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ## 🚀 Sobre Mim
 
 - 🔭 Atualmente, estou trabalhando em [https://retribua.online/].
-- 🌱 Estou aprendendo [Java].
+- 🌱 Estou aprendendo [React].
 - 📫 Como entrar em contato comigo: [jpcanuto789@gmail.com].
 
 
